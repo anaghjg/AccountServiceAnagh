@@ -1,0 +1,6 @@
+server:
+  port: 9004
+spring:
+  h2:
+    console:
+      enabled: true
